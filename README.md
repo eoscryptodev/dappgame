@@ -6,7 +6,7 @@
 
 ```
 
-Start the Zeus IDE with [Gitpod](https://gitpod.io/#https://github.com/eoscryptodev/zeus-ide)
+Start the Zeus IDE with [Gitpod](https://gitpod.io/#https://github.com/eoscryptodev/dappgame)
 
 
 After your enviroment finishes loading in the editor, you can try:
