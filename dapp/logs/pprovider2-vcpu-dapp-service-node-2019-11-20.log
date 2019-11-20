@@ -1,0 +1,42 @@
+2019-11-20 01:20:33 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 01:20:33 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 01:20:33 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 01:20:33 [[32minfo[39m]: nodeFactory starting vcpu
+2019-11-20 01:38:01 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 01:38:02 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 01:38:02 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 01:38:02 [[32minfo[39m]: nodeFactory starting vcpu
+2019-11-20 01:44:46 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:46 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:46 [[34mdebug[39m]: running chain handler vcpu vrun
+2019-11-20 01:44:46 [[32minfo[39m]: payload2: 1500000000171100
+2019-11-20 01:44:46 [[32minfo[39m]: res: 1500000000171100070000000300000000710200
+2019-11-20 01:44:47 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"vcpuconsumer","service":"vcpuservices","action":"vrun","provider":"","data":"JUxlbz06Ly8xNzQxMjM5Nzk1Oi8vdnZjb21kZW5vbTovL2Y1dz0IFQAAAAAXEQAB","broadcasted":true,"current_provider":"pprovider2","packageid":"foobar"},"exception":true}
+RESPONSE: [10b9ff5f521be5b93128c60af2650e0f2ad7b5acf9693cef2e75ec5441ff3f03]
+{"action":"xvrun","payload":{"uri":"4C656F3D3A2F2F313734313233393739353A2F2F7676636F6D64656E6F6D3A2F2F6635773D","data":{"type":"Buffer","data":[21,0,0,0,0,23,17,0,7,0,0,0,3,0,0,0,0,113,2,0]},"size":20,"current_provider":"pprovider2","package":"foobar"},"request":{"version":"1.0","etype":"service_request","payer":"vcpuconsumer","service":"vcpuservices","action":"vrun","provider":"","data":"JUxlbz06Ly8xNzQxMjM5Nzk1Oi8vdnZjb21kZW5vbTovL2Y1dz0IFQAAAAAXEQAB","broadcasted":true,"current_provider":"pprovider2","packageid":"foobar"}}
+2019-11-20 01:44:48 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:48 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:48 [[34mdebug[39m]: running chain handler vcpu vrun
+2019-11-20 01:44:48 [[32minfo[39m]: payload2: 01a25c7e00d8c142
+2019-11-20 01:44:55 [[32minfo[39m]: res: 01a25c7e00d8c14207000000b73b0d1200688909
+2019-11-20 01:44:56 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"vcpuconsumer","service":"vcpuservices","action":"vrun","provider":"","data":"JU1JMD06Ly8tODE1OTcyMDEzOi8vdnZjb21kZW5vbTovLzBuTT0IAaJcfgDYwUIB","broadcasted":true,"current_provider":"pprovider2","packageid":"foobar"},"exception":true}
+RESPONSE: [5be5cd17aca2806c4bc977f8edf5ef77d7ffdfd59134b9720d79ce3b7662596c]
+{"action":"xvrun","payload":{"uri":"4D49303D3A2F2F2D3831353937323031333A2F2F7676636F6D64656E6F6D3A2F2F306E4D3D","data":{"type":"Buffer","data":[1,162,92,126,0,216,193,66,7,0,0,0,183,59,13,18,0,104,137,9]},"size":20,"current_provider":"pprovider2","package":"foobar"},"request":{"version":"1.0","etype":"service_request","payer":"vcpuconsumer","service":"vcpuservices","action":"vrun","provider":"","data":"JU1JMD06Ly8tODE1OTcyMDEzOi8vdnZjb21kZW5vbTovLzBuTT0IAaJcfgDYwUIB","broadcasted":true,"current_provider":"pprovider2","packageid":"foobar"}}
+2019-11-20 02:01:17 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 02:01:18 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 02:01:18 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 02:01:18 [[32minfo[39m]: nodeFactory starting vcpu
+2019-11-20 04:45:43 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 04:45:44 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 04:45:44 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 04:45:44 [[32minfo[39m]: nodeFactory starting vcpu
+2019-11-20 16:31:28 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 16:31:29 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 16:31:29 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 16:31:29 [[32minfo[39m]: nodeFactory starting vcpu
+2019-11-20 18:55:38 [[32minfo[39m]: nodeAutoFactory starting vcpu
+2019-11-20 18:55:38 [[34mdebug[39m]: registering chain handler vcpu vrun
+2019-11-20 18:55:38 [[34mdebug[39m]: registering chain handler vcpu vrunclean
+2019-11-20 18:55:38 [[32minfo[39m]: nodeFactory starting vcpu

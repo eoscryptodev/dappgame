@@ -1,0 +1,56 @@
+2019-11-20 01:20:21 [[32minfo[39m]: nodeFactory starting vaccounts
+2019-11-20 01:37:50 [[32minfo[39m]: nodeFactory starting vaccounts
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:33 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS5R2iivG2vdPtsPwZwcHakeV87n5VgoPoGw8tL6nJCwWujnBEc4
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:35 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS5R2iivG2vdPtsPwZwcHakeV87n5VgoPoGw8tL6nJCwWujnBEc4
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:36 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS5R2iivG2vdPtsPwZwcHakeV87n5VgoPoGw8tL6nJCwWujnBEc4
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:37 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS8GT8G1CP8bcvt3HmzUMLwNzfGkhhzGwk2eu1TExbbskbW9skbE
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:38 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS8GT8G1CP8bcvt3HmzUMLwNzfGkhhzGwk2eu1TExbbskbW9skbE
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:38 [[32minfo[39m]: Received vaccount push_action request: account test1v, public key EOS7DRhhMVUv3JdXL5FeBNsvCxUQGfXVMvcurjrH1guyc9Cqg3dPi
+2019-11-20 01:44:39 [[31merror[39m]: Error executing vaccount transaction: {"code":500,"message":"Internal Service Error","error":{"code":3230001,"name":"crypto_api_exception","what":"Crypto API Exception","details":[{"message":"Error expected key different than recovered key","file":"wasm_interface.cpp","line_number":738,"method":"assert_recover_key"},{"message":"pending console output: ","file":"apply_context.cpp","line_number":113,"method":"exec_one"}]}}
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:39 [[32minfo[39m]: Received vaccount push_action request: account test2v, public key EOS7ecX6bS1kV62kmddNC3Z3DPoDqREWYEbCiwmpa7iytkqhvSYgY
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1]
+2019-11-20 01:44:40 [[32minfo[39m]: Received vaccount push_action request: account test2v, public key EOS5BBY5QM2AVuE6qmRcH493JvAteWgUFb3uFv5VsPRbR1NiHvULE
+2019-11-20 01:44:41 [[31merror[39m]: Error executing vaccount transaction: {"code":500,"message":"Internal Service Error","error":{"code":3050003,"name":"eosio_assert_message_exception","what":"eosio_assert_message assertion failure","details":[{"message":"assertion failure with message: wrong public key","file":"wasm_interface.cpp","line_number":964,"method":"eosio_assert"},{"message":"pending console output: ","file":"apply_context.cpp","line_number":113,"method":"exec_one"}]}}
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:51 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:52 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 02:01:01 [[32minfo[39m]: nodeFactory starting vaccounts
+2019-11-20 04:45:32 [[32minfo[39m]: nodeFactory starting vaccounts
+2019-11-20 16:31:16 [[32minfo[39m]: nodeFactory starting vaccounts
+2019-11-20 18:55:26 [[32minfo[39m]: nodeFactory starting vaccounts

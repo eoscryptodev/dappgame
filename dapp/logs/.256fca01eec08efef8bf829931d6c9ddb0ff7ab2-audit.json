@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.256fca01eec08efef8bf829931d6c9ddb0ff7ab2-audit.json",
+    "files": [
+        {
+            "date": 1574212829593,
+            "name": "logs/pprovider1-vcpu-dapp-service-node-2019-11-20.log",
+            "hash": "86868cf1217f5e3d3e70bcdf393a3da9"
+        }
+    ]
+}

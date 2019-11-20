@@ -1,0 +1,977 @@
+2019-11-20 01:19:02 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-20 01:36:31 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:12 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:13 [[32minfo[39m]: processing request: key: 9AECFC8D8A465F6F72179680B891FFB7FDD69E67C8F5EFDD51FD3C3275364F68.schedule.test1.0 value: 263
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:15 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:16 [[32minfo[39m]: processing request: key: 75B197BC35DF730C2999CE46E35AC0D72FE6E93441A33BA5A0F3594542292FE9.schedule.test1.0 value: 269
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:19 [[32minfo[39m]: processing request: key: 84437D9E5A0665EC3580C7F9714E53A74D23062C8BC3B5A2A974317153E279BF.schedule.test1.0 value: 275
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:21 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:22 [[32minfo[39m]: processing request: key: D0717B5A54EECF2211B1141B5EA0DBA7BA0E3F8936D5EEB8C868894A4A06D961.schedule.test1.0 value: 281
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:24 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:25 [[32minfo[39m]: processing request: key: 206AB668E03ED242A41CC634B6303C6CF1FD1DCB041E18F109290D3788758307.schedule.test1.0 value: 287
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:27 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:28 [[32minfo[39m]: processing request: key: 49890E86A2E5BB4A64EA480459D043C0B8879132B744023F7C2A56C97AFEB867.schedule.test1.0 value: 293
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:30 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:31 [[32minfo[39m]: processing request: key: 9BBC66AF41AD8A84757C4C511222F4B5CAF53BAC00AB71906EB2963DAB2360F9.schedule.test1.0 value: 299
+2019-11-20 01:38:32 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:34 [[32minfo[39m]: processing request: key: 811978149FB969F1F7D68A55B6E5DD6E74B800F91D82D7BA4765A79124CCCDE3.schedule.test1.0 value: 305
+2019-11-20 01:38:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:37 [[32minfo[39m]: processing request: key: 44B3A77BACAE5678DDFB34412A2750A76590968E3EEB2A1957D4DB4F922E1289.schedule.test1.0 value: 312
+2019-11-20 01:38:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:40 [[32minfo[39m]: processing request: key: B9B512ABCDEF39AE144E4341404E6BE9E4D2D29FBA9F2024DA45E0B279DE2087.schedule.test1.0 value: 318
+2019-11-20 01:38:42 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:42 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:42 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:42 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:43 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:43 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: processing request: key: EE2747C06AC54E9E82E21B808D4EB1F00CC607284F665C160058208824CDFE85.commit.consumer2.0 value: 326
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:44 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:46 [[34mdebug[39m]: forwarding signal EE2747C06AC54E9E82E21B808D4EB1F00CC607284F665C160058208824CDFE85.commit.consumer2.0
+2019-11-20 01:38:46 [[34mdebug[39m]: forwarding usage EE2747C06AC54E9E82E21B808D4EB1F00CC607284F665C160058208824CDFE85.commit.consumer2.0
+2019-11-20 01:38:50 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:50 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:50 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:50 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:51 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:51 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:38:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:38:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:39:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:39:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:39:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:45 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:39:49 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:54 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:54 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:54 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:54 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:55 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:39:55 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:11 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:16 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:29 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:29 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:29 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:29 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:30 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:30 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:43 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:55 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:40:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:40:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:41:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:09 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:09 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:41:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:22 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:41:27 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:41:41 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:41:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:01 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:42:04 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:42:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:41 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/dsp/readfndspsvc/read	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:56 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:42:57 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: processing request: key: 69EDFFFAA9A4602FB5C8C236F9AC142879E57ED9C8B110EB76A89B00E95BCE4A.commit.test1.0 value: 842
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:02 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: processing request: key: BBD5858A233319BC76AD82087AA7DAC2300A1D30A35AF0F9A790F85D4C98627E.commit.test1.0 value: 843
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[34mdebug[39m]: forwarding signal 69EDFFFAA9A4602FB5C8C236F9AC142879E57ED9C8B110EB76A89B00E95BCE4A.commit.test1.0
+2019-11-20 01:43:03 [[34mdebug[39m]: forwarding usage 69EDFFFAA9A4602FB5C8C236F9AC142879E57ED9C8B110EB76A89B00E95BCE4A.commit.test1.0
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:03 [[32minfo[39m]: processing request: key: 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.0 value: 844
+2019-11-20 01:43:03 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:04 [[32minfo[39m]: processing request: key: 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.1 value: 844
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:04 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: processing request: key: 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.2 value: 844
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: processing request: key: 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.3 value: 844
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:05 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: processing request: key: C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.0 value: 844
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: processing request: key: C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.1 value: 844
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:06 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: processing request: key: C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.2 value: 844
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_table_rows	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:07 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: processing request: key: C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.3 value: 844
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:08 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:08 [[34mdebug[39m]: forwarding signal BBD5858A233319BC76AD82087AA7DAC2300A1D30A35AF0F9A790F85D4C98627E.commit.test1.0
+2019-11-20 01:43:08 [[34mdebug[39m]: forwarding usage BBD5858A233319BC76AD82087AA7DAC2300A1D30A35AF0F9A790F85D4C98627E.commit.test1.0
+2019-11-20 01:43:08 [[32minfo[39m]: processing request: key: 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.0 value: 845
+2019-11-20 01:43:09 [[32minfo[39m]: processing request: key: 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.1 value: 845
+2019-11-20 01:43:09 [[32minfo[39m]: processing request: key: 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.2 value: 845
+2019-11-20 01:43:10 [[32minfo[39m]: processing request: key: 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.3 value: 845
+2019-11-20 01:43:10 [[34mdebug[39m]: forwarding signal 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.0
+2019-11-20 01:43:10 [[34mdebug[39m]: forwarding usage 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.0
+2019-11-20 01:43:10 [[32minfo[39m]: processing request: key: 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.0 value: 846
+2019-11-20 01:43:11 [[32minfo[39m]: processing request: key: 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.1 value: 846
+2019-11-20 01:43:11 [[32minfo[39m]: processing request: key: 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.2 value: 846
+2019-11-20 01:43:12 [[32minfo[39m]: processing request: key: 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.3 value: 846
+2019-11-20 01:43:12 [[32minfo[39m]: processing request: key: 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.0 value: 848
+2019-11-20 01:43:12 [[32minfo[39m]: processing request: key: 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.1 value: 848
+2019-11-20 01:43:13 [[32minfo[39m]: processing request: key: 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.2 value: 848
+2019-11-20 01:43:13 [[32minfo[39m]: processing request: key: 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.3 value: 848
+2019-11-20 01:43:14 [[34mdebug[39m]: forwarding signal 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.1
+2019-11-20 01:43:14 [[34mdebug[39m]: forwarding usage 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.1
+2019-11-20 01:43:14 [[34mdebug[39m]: forwarding signal 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.2
+2019-11-20 01:43:14 [[34mdebug[39m]: forwarding usage 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.2
+2019-11-20 01:43:14 [[32minfo[39m]: processing request: key: 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.0 value: 849
+2019-11-20 01:43:15 [[32minfo[39m]: processing request: key: 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.1 value: 849
+2019-11-20 01:43:15 [[32minfo[39m]: processing request: key: 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.2 value: 849
+2019-11-20 01:43:16 [[32minfo[39m]: processing request: key: 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.3 value: 849
+2019-11-20 01:43:16 [[34mdebug[39m]: forwarding signal 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.3
+2019-11-20 01:43:16 [[34mdebug[39m]: forwarding usage 5073BD32C76DAC1EDD6557DF8384D53798730321D9AFF55BB8113C06CC37239B.commit.test1.3
+2019-11-20 01:43:17 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.0 value: 851
+2019-11-20 01:43:17 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.1 value: 851
+2019-11-20 01:43:17 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.2 value: 851
+2019-11-20 01:43:18 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.3 value: 851
+2019-11-20 01:43:18 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:18 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.4 value: 851
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[32minfo[39m]: processing request: key: 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.5 value: 851
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:19 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:19 [[34mdebug[39m]: forwarding signal C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.0
+2019-11-20 01:43:19 [[34mdebug[39m]: forwarding usage C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.0
+2019-11-20 01:43:19 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.0 value: 851
+2019-11-20 01:43:20 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.1 value: 851
+2019-11-20 01:43:21 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.2 value: 851
+2019-11-20 01:43:21 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.3 value: 851
+2019-11-20 01:43:21 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.4 value: 851
+2019-11-20 01:43:22 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.5 value: 851
+2019-11-20 01:43:23 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.6 value: 851
+2019-11-20 01:43:23 [[32minfo[39m]: processing request: key: 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.7 value: 851
+2019-11-20 01:43:23 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:23 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:23 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:23 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:24 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:24 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:24 [[34mdebug[39m]: forwarding signal C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.1
+2019-11-20 01:43:24 [[34mdebug[39m]: forwarding usage C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.1
+2019-11-20 01:43:24 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.0 value: 853
+2019-11-20 01:43:24 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.1 value: 853
+2019-11-20 01:43:25 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.2 value: 853
+2019-11-20 01:43:25 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.3 value: 853
+2019-11-20 01:43:26 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.4 value: 853
+2019-11-20 01:43:26 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.5 value: 853
+2019-11-20 01:43:26 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.6 value: 853
+2019-11-20 01:43:26 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.7 value: 853
+2019-11-20 01:43:26 [[32minfo[39m]: processing request: key: 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.8 value: 853
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.2
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.2
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.3
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage C4AA7C5690D8B9AFFE9F7CFCF84CC91E79AAE9624400A75294D2754387A5041C.commit.test1.3
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.0
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.0
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.1
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.1
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.2
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.2
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.3
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage 71F08283582F9B4C4BD149C4E5A1F166403ED0613302AE7BC0CC61344B4BAF6E.commit.test1.3
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.0
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding usage 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.0
+2019-11-20 01:43:27 [[34mdebug[39m]: forwarding signal 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.1
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding usage 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.1
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding signal 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.2
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding usage 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.2
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding signal 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.3
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding usage 41F577A1C5DF4341B3611AFFB481347F5A101074CF1224B1B70DFFB2CAB6FC8D.commit.test1.3
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding signal 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.0
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding usage 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.0
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding signal 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.1
+2019-11-20 01:43:28 [[34mdebug[39m]: forwarding usage 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.1
+2019-11-20 01:43:28 [[32minfo[39m]: processing request: key: 93431E251A01BB2EBFA85084ACA361AEEAFDD68C4F59D01B98284179D2D2ECFC.commit.test1.0 value: 865
+2019-11-20 01:43:28 [[32minfo[39m]: processing request: key: 166303C3F4DFAF0D8D6F497B3C02AFA75C868B6DBB5A6AE6522DF826D54E0DEE.commit.test1.0 value: 865
+2019-11-20 01:43:28 [[32minfo[39m]: processing request: key: 84523563A032370F7730CF35B9543A90DD0EB86D35F1868135D8ECA1480E7097.commit.test1.0 value: 865
+2019-11-20 01:43:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:28 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:29 [[32minfo[39m]: processing request: key: 24B7AFEB07C7647B33504A0C162470AA8376F68725E66508CA1864F999549D94.commit.test1.0 value: 865
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:29 [[32minfo[39m]: processing request: key: 29EF5A905945CFF4BE96A5276F9481DB1A832442AD782EF82EE69482F2F686B8.commit.test1.0 value: 865
+2019-11-20 01:43:29 [[32minfo[39m]: processing request: key: B8FDAAA37F042A23DAF482DA94127784D97C53778A3B28E0298BF4A4838ED174.commit.test1.0 value: 865
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding signal 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.2
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding usage 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.2
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding signal 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.3
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding usage 7838E6522C3AF5BF195A6459E58A77DFFE60C0E7F3C1A45808A83FF0BFFA2262.commit.test1.3
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding signal 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.0
+2019-11-20 01:43:29 [[34mdebug[39m]: forwarding usage 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.0
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.1
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.1
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.2
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.2
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.3
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 1602467901FE6733F861476AD38B93211F2CA7BBEFDC93A41339802CCE75F3D7.commit.test1.3
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.0
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.0
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.1
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.1
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.2
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.2
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.3
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.3
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.4
+2019-11-20 01:43:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:30 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.4
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.5
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding usage 796ABAA2F283F4EC18AC37BD5EB0D48A90AC73F982481A5007520DF204CF5886.commit.test1.5
+2019-11-20 01:43:30 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.0
+2019-11-20 01:43:31 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.0
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:31 [[32minfo[39m]: processing request: key: 8A7527C3F46BF0D6632049F760606D9B5D02F1CFEA7C89EF68297743E8144BD0.commit.test1.0 value: 879
+2019-11-20 01:43:31 [[32minfo[39m]: processing request: key: 7CB1F91E539DD76EF3191E6D1802A7F5C6FD16CCB921B42DD82450D56E818430.commit.test1.0 value: 879
+2019-11-20 01:43:31 [[32minfo[39m]: processing request: key: 581571D42A68933292BC24222BE8CBD74ADAC2F8FF135B8CE4B289EA46B436EB.commit.test1.0 value: 879
+2019-11-20 01:43:31 [[32minfo[39m]: processing request: key: 07AD5E71F171764154B9FAAA276E4656FB130C7EB378F26F99DBEA7339ECCBE5.commit.test1.0 value: 879
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: processing request: key: 75A5A2394229A5CECC1B844383BB0117CBCA1C20078EBB5B0E3106B1EBD8BE27.commit.test1.0 value: 879
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:32 [[32minfo[39m]: processing request: key: C016F68013508E7213A72BDF56519603676ED23033534F2ECD17ABBDBA01625C.commit.test1.0 value: 879
+2019-11-20 01:43:32 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.1
+2019-11-20 01:43:32 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.1
+2019-11-20 01:43:32 [[32minfo[39m]: processing request: key: A03BE9E69DDD01A91456BA977E89F3FE5665725152A7D58BA1958A2B97051B55.commit.test1.0 value: 880
+2019-11-20 01:43:32 [[32minfo[39m]: processing request: key: F4532D4A30CA7144906B8FA664F7B94E1CB5F0FA6BAF055FDFADB674B17BBA6A.commit.test1.0 value: 880
+2019-11-20 01:43:32 [[32minfo[39m]: processing request: key: CC8A4841501E3D96F1E79AF7BAA00D13AAFA8CAFBE2CE270EDAA4668C4580086.commit.test1.0 value: 880
+2019-11-20 01:43:32 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.2
+2019-11-20 01:43:32 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.2
+2019-11-20 01:43:33 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.3
+2019-11-20 01:43:33 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.3
+2019-11-20 01:43:33 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.4
+2019-11-20 01:43:33 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.4
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: processing request: key: 45607FABD6537107B879E26C33D0977587A6FD5E982BC8D231CC5A88433DEF52.commit.test1.0 value: 883
+2019-11-20 01:43:33 [[32minfo[39m]: processing request: key: C6A203FB176557B66C05B67FBBC4343AAD49D64FF258C77479F5CD0020C04B65.commit.test1.0 value: 883
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:33 [[32minfo[39m]: processing request: key: 37AE83E8454443672BFD91F24BC9E60AF528035DFDE805A85E3D25B3A44C9FB6.commit.test1.0 value: 884
+2019-11-20 01:43:33 [[32minfo[39m]: processing request: key: 0F2E507647078715464D3003F9A18BA93ABC0C42B7C9A6B261FAD91D93CA314B.commit.test1.0 value: 884
+2019-11-20 01:43:33 [[32minfo[39m]: processing request: key: C3BCE1B579365FB7DC4C2F7E1D4FE0245EF2F5A8224870678366E38A4AD8288F.commit.test1.0 value: 884
+2019-11-20 01:43:34 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.5
+2019-11-20 01:43:34 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.5
+2019-11-20 01:43:34 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.6
+2019-11-20 01:43:34 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.6
+2019-11-20 01:43:34 [[32minfo[39m]: processing request: key: 59AF6984C8ECB5FEAD7AB25A6D2F2C2DEA2CF145DE45CA301B5FFE4C14B4F1BD.logevent.test2.0 value: 886
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding signal 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.7
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding usage 41B1B4356AED47625A78F6BFEF9F216A29D25FEB1056312172CA0548C2C1E89D.commit.test1.7
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding signal 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.0
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding usage 6D56EE49D930DFBA307EDD72F0823BD72379A02374507EA16FC573CB50119F19.commit.test1.0
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding signal 59AF6984C8ECB5FEAD7AB25A6D2F2C2DEA2CF145DE45CA301B5FFE4C14B4F1BD.logevent.test2.0
+2019-11-20 01:43:35 [[34mdebug[39m]: forwarding usage 59AF6984C8ECB5FEAD7AB25A6D2F2C2DEA2CF145DE45CA301B5FFE4C14B4F1BD.logevent.test2.0
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:55 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.0 value: 941
+2019-11-20 01:43:56 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.1 value: 941
+2019-11-20 01:43:57 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.2 value: 941
+2019-11-20 01:43:57 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.3 value: 941
+2019-11-20 01:43:58 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.4 value: 941
+2019-11-20 01:43:58 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.5 value: 941
+2019-11-20 01:43:58 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.6 value: 941
+2019-11-20 01:43:59 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.7 value: 941
+2019-11-20 01:44:00 [[32minfo[39m]: processing request: key: 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.8 value: 941
+2019-11-20 01:44:00 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.0 value: 944
+2019-11-20 01:44:01 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.1 value: 944
+2019-11-20 01:44:01 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.2 value: 944
+2019-11-20 01:44:02 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.3 value: 944
+2019-11-20 01:44:02 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.4 value: 944
+2019-11-20 01:44:03 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.5 value: 944
+2019-11-20 01:44:03 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.6 value: 944
+2019-11-20 01:44:04 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.7 value: 944
+2019-11-20 01:44:05 [[32minfo[39m]: processing request: key: DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.8 value: 944
+2019-11-20 01:44:05 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.0 value: 947
+2019-11-20 01:44:06 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.1 value: 947
+2019-11-20 01:44:06 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.2 value: 947
+2019-11-20 01:44:07 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.3 value: 947
+2019-11-20 01:44:08 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.4 value: 947
+2019-11-20 01:44:09 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.5 value: 947
+2019-11-20 01:44:09 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.6 value: 947
+2019-11-20 01:44:10 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.7 value: 947
+2019-11-20 01:44:11 [[32minfo[39m]: processing request: key: 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.8 value: 947
+2019-11-20 01:44:12 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.0 value: 950
+2019-11-20 01:44:12 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.1 value: 950
+2019-11-20 01:44:12 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.2 value: 950
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/dsp/readfndspsvc/read	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.3 value: 950
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:13 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:14 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.4 value: 950
+2019-11-20 01:44:14 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.5 value: 950
+2019-11-20 01:44:15 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.6 value: 950
+2019-11-20 01:44:15 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.7 value: 950
+2019-11-20 01:44:16 [[32minfo[39m]: processing request: key: 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.8 value: 950
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.0
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.0
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.1
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.1
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.2
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.2
+2019-11-20 01:44:16 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.3
+2019-11-20 01:44:17 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.3
+2019-11-20 01:44:17 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.0 value: 954
+2019-11-20 01:44:17 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.1 value: 954
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/dsp/readfndspsvc/read	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.2 value: 954
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.3 value: 954
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:18 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:19 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.4 value: 954
+2019-11-20 01:44:19 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.5 value: 954
+2019-11-20 01:44:20 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.6 value: 954
+2019-11-20 01:44:20 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.7 value: 954
+2019-11-20 01:44:21 [[32minfo[39m]: processing request: key: FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.8 value: 954
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.4
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.4
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.5
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.5
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.6
+2019-11-20 01:44:21 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.6
+2019-11-20 01:44:22 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.0 value: 957
+2019-11-20 01:44:22 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.1 value: 957
+2019-11-20 01:44:23 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.2 value: 957
+2019-11-20 01:44:23 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.3 value: 957
+2019-11-20 01:44:23 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.4 value: 957
+2019-11-20 01:44:24 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.5 value: 957
+2019-11-20 01:44:24 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.6 value: 957
+2019-11-20 01:44:25 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.7 value: 957
+2019-11-20 01:44:26 [[32minfo[39m]: processing request: key: 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.8 value: 957
+2019-11-20 01:44:26 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.7
+2019-11-20 01:44:26 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.7
+2019-11-20 01:44:26 [[34mdebug[39m]: forwarding signal 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.8
+2019-11-20 01:44:26 [[34mdebug[39m]: forwarding usage 84D250DE608A83EC021DCB5C4A4A6C5CA76855F46E53A111BF68BAF2D65BC14F.commit.dappservices.8
+2019-11-20 01:44:27 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.0
+2019-11-20 01:44:27 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.0
+2019-11-20 01:44:27 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.0 value: 960
+2019-11-20 01:44:27 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.1 value: 960
+2019-11-20 01:44:28 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.2 value: 960
+2019-11-20 01:44:28 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.3 value: 960
+2019-11-20 01:44:29 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.4 value: 960
+2019-11-20 01:44:29 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.5 value: 960
+2019-11-20 01:44:30 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.6 value: 960
+2019-11-20 01:44:30 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.7 value: 960
+2019-11-20 01:44:30 [[32minfo[39m]: processing request: key: 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.8 value: 960
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.1
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.1
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.2
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.2
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.3
+2019-11-20 01:44:31 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.3
+2019-11-20 01:44:32 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.0 value: 963
+2019-11-20 01:44:32 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.1 value: 963
+2019-11-20 01:44:32 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:32 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:32 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:32 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:33 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.2 value: 963
+2019-11-20 01:44:33 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.3 value: 963
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:33 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.4 value: 963
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.5 value: 963
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:34 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:34 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.6 value: 963
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.7 value: 963
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:35 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:35 [[32minfo[39m]: processing request: key: B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.8 value: 963
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.4
+2019-11-20 01:44:36 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.4
+2019-11-20 01:44:36 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.5
+2019-11-20 01:44:36 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.5
+2019-11-20 01:44:36 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.0 value: 966
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:36 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:36 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.1 value: 966
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.2 value: 966
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:37 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:37 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.3 value: 966
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.4 value: 966
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:38 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.5 value: 966
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.6 value: 966
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:39 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.7 value: 966
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/dsp/ipfsservice1/get_table_row	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: processing request: key: 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.8 value: 966
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/dsp/accountless1/push_action	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:40 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:41 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:41 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:41 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.6
+2019-11-20 01:44:41 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.6
+2019-11-20 01:44:41 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.7
+2019-11-20 01:44:41 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.7
+2019-11-20 01:44:41 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.0 value: 969
+2019-11-20 01:44:42 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.1 value: 969
+2019-11-20 01:44:42 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.2 value: 969
+2019-11-20 01:44:42 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.3 value: 969
+2019-11-20 01:44:43 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.4 value: 969
+2019-11-20 01:44:43 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.5 value: 969
+2019-11-20 01:44:44 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.6 value: 969
+2019-11-20 01:44:44 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.7 value: 969
+2019-11-20 01:44:45 [[32minfo[39m]: processing request: key: 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.8 value: 969
+2019-11-20 01:44:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding signal DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.8
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding usage DC0B2359BD61ADD058A9989EB55F1CDDB42DD87D164E00D0008F9C461A3F0294.commit.dappservices.8
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.0
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.0
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.1
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.1
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.2
+2019-11-20 01:44:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.2
+2019-11-20 01:44:45 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:45 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.3
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.3
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.4
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.4
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.5
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.5
+2019-11-20 01:44:46 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:46 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.6
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.6
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.7
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.7
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.8
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 9798413B7095E2F0FA8D78D8CB38023DE617D7B616AF1ED656BE6060769BAA7E.commit.dappservices.8
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.0
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.0
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.1
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.1
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.2
+2019-11-20 01:44:46 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.2
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.3
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.3
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.4
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.4
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.5
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.5
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.6
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.6
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.7
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.7
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.8
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage 05A98D157DBD8AF3935FE1CCD57DF61FAE56E5D8FCA2CDBAEA40D9F6BB36B57D.commit.dappservices.8
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.0
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.0
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.1
+2019-11-20 01:44:47 [[32minfo[39m]: GATEWAY: /v1/chain/get_info	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:47 [[32minfo[39m]: GATEWAY: /v1/chain/get_block	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:47 [[32minfo[39m]: GATEWAY: /v1/chain/get_raw_code_and_abi	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:47 [[32minfo[39m]: GATEWAY: /v1/chain/get_required_keys	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.1
+2019-11-20 01:44:47 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.2
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.2
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.3
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.3
+2019-11-20 01:44:48 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:44:48 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.4
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.4
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.5
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.5
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.6
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.6
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.7
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.7
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding signal FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.8
+2019-11-20 01:44:48 [[34mdebug[39m]: forwarding usage FAD3808C60F4200C2C7BEC410C3496E4C7DEF0D76C3804ACC987AE8ADD8C48FE.commit.dappservices.8
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.0
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.0
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.1
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.1
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.2
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.2
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.3
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.3
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.4
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.4
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.5
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.5
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.6
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.6
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.7
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.7
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.8
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding usage 3DCBD95A61B3B43CFAC33CC1843F0F7913EAC2016384A8B11673FBDFD680A96A.commit.dappservices.8
+2019-11-20 01:44:49 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.0
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.0
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.1
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.1
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.2
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.2
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.3
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.3
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.4
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.4
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.5
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.5
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.6
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.6
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.7
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.7
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.8
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage 96D8CC4ED5246B5EDC4B251508BDCAC64670D47A166401713FD0BD99C2FA5D98.commit.dappservices.8
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.0
+2019-11-20 01:44:50 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.0
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.1
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.1
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.2
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.2
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.3
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.3
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.4
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.4
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.5
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.5
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.6
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.6
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.7
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.7
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.8
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding usage B03A38FE6BE44AC0499E7E4BA33EF49859B19BE007CEFB249553BC3F84FCAF07.commit.dappservices.8
+2019-11-20 01:44:51 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.0
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.0
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.1
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.1
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.2
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.2
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.3
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.3
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.4
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.4
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.5
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.5
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.6
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.6
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.7
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.7
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.8
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding usage 84CB485B486B9D78B7C3A9261A28A0E72313E126E9880DE383D912AA5C7B0ECF.commit.dappservices.8
+2019-11-20 01:44:52 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.0
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.0
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.1
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.1
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.2
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.2
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.3
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.3
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.4
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.4
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.5
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.5
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.6
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.6
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.7
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.7
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding signal 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.8
+2019-11-20 01:44:53 [[34mdebug[39m]: forwarding usage 3401B729900E665A8B855262CD384879340B77150E36C482B9BFE43BE7AB9AC2.commit.dappservices.8
+2019-11-20 01:46:36 [[32minfo[39m]: processing request: key: 8BF54ABA19232B1C15389F6BE5FC8B3E0885783AF3DB91F51267C6E2FC425732.commit.test1v.0 value: 1269
+2019-11-20 01:46:37 [[32minfo[39m]: processing request: key: F84B85937B6D1560C284961E3666AA407917BEAFECFAEBC2A460A8BA3262D317.commit.test1v.0 value: 1269
+2019-11-20 01:46:37 [[32minfo[39m]: processing request: key: 7A86EC4B3E5A315A09ACAF4DB3F0564F9834426B001816582D4269D280ABB1B7.commit.test1v.0 value: 1269
+2019-11-20 01:46:38 [[32minfo[39m]: processing request: key: BED0AAEE5C8D72F108AB242C3E28D1CCB6781C2F6B6BAD37C157B90FCD4B0C09.commit.test1v.0 value: 1271
+2019-11-20 01:46:39 [[32minfo[39m]: processing request: key: 37F748DFE0E12AA2703DB5AC8FA314320627C7395648AA06FEB1D8990A3BDE34.commit.test1v.0 value: 1271
+2019-11-20 01:46:40 [[32minfo[39m]: processing request: key: F2DC8936BD904B8C90C873C4A1227DC8B0C4F79AA403CA9CEE0C3D09C2B2CA94.commit.test1v.0 value: 1271
+2019-11-20 01:46:40 [[32minfo[39m]: processing request: key: 08F73AB2A4A8A56D6D2D52262287491D4792D2643B9D8D778F0E1B14F1A68D6F.commit.test1v.0 value: 1271
+2019-11-20 01:46:41 [[32minfo[39m]: processing request: key: 3D3C0D430A3FD7CF7D33F42C33753E730116470771BD1F2869CFD36BE44AF2A9.commit.test1v.0 value: 1271
+2019-11-20 01:46:41 [[32minfo[39m]: processing request: key: 0F58F6E2B31C98CE3D1753F54F71E0F1E1771BD9217EB2B5E40924DCF4908274.commit.test1v.0 value: 1271
+2019-11-20 01:46:41 [[34mdebug[39m]: forwarding signal 8BF54ABA19232B1C15389F6BE5FC8B3E0885783AF3DB91F51267C6E2FC425732.commit.test1v.0
+2019-11-20 01:46:42 [[34mdebug[39m]: forwarding usage 8BF54ABA19232B1C15389F6BE5FC8B3E0885783AF3DB91F51267C6E2FC425732.commit.test1v.0
+2019-11-20 01:46:42 [[32minfo[39m]: processing request: key: 879FDBAC6694994471D52039AC67671549877B55DA6DF37FA2A515D76B4EB28B.commit.test1v.0 value: 1273
+2019-11-20 01:46:42 [[32minfo[39m]: processing request: key: 49652BAFCC4F333C86FE4774C7D15EE9BCE59FBABC3A4C4BE41007F2520DFD9E.commit.test1v.0 value: 1273
+2019-11-20 01:46:43 [[34mdebug[39m]: forwarding signal F84B85937B6D1560C284961E3666AA407917BEAFECFAEBC2A460A8BA3262D317.commit.test1v.0
+2019-11-20 01:46:43 [[34mdebug[39m]: forwarding usage F84B85937B6D1560C284961E3666AA407917BEAFECFAEBC2A460A8BA3262D317.commit.test1v.0
+2019-11-20 01:46:43 [[34mdebug[39m]: forwarding signal 7A86EC4B3E5A315A09ACAF4DB3F0564F9834426B001816582D4269D280ABB1B7.commit.test1v.0
+2019-11-20 01:46:43 [[34mdebug[39m]: forwarding usage 7A86EC4B3E5A315A09ACAF4DB3F0564F9834426B001816582D4269D280ABB1B7.commit.test1v.0
+2019-11-20 01:46:43 [[32minfo[39m]: processing request: key: D2DE042F7067A9808EE0F192EA997A60255FD1AAF0E3E4FA31C04C3304208A13.commit.test1v.0 value: 1275
+2019-11-20 01:46:44 [[32minfo[39m]: processing request: key: 108DB576D323328C3BF9C23A1D7AB3BC4EA54C3FA6158ABCB405F12C9CDA5103.commit.test1v.0 value: 1275
+2019-11-20 01:46:44 [[32minfo[39m]: processing request: key: 213018CDF17812425291E06FA8E2EFD688C11326A63F97D2E5CE18DD754C37E0.commit.test1v.0 value: 1275
+2019-11-20 01:46:44 [[32minfo[39m]: processing request: key: BDFFD574B0382B0C96FA259369774BB6A365EB58B56BFDA194C55E00EA2D7773.commit.test1v.0 value: 1275
+2019-11-20 01:46:45 [[32minfo[39m]: processing request: key: D351C09901BCA2509169757D5BAF7F5FFCE9A8A977E647EC5FD63B611D51E3B6.commit.test1v.0 value: 1275
+2019-11-20 01:46:45 [[32minfo[39m]: processing request: key: 30A76C1D08DD7B92992E83B97D4C0E9FCD59EB446376AA6800DC6B4137A2FCA9.commit.test1v.0 value: 1275
+2019-11-20 01:46:46 [[34mdebug[39m]: forwarding signal BED0AAEE5C8D72F108AB242C3E28D1CCB6781C2F6B6BAD37C157B90FCD4B0C09.commit.test1v.0
+2019-11-20 01:46:46 [[34mdebug[39m]: forwarding usage BED0AAEE5C8D72F108AB242C3E28D1CCB6781C2F6B6BAD37C157B90FCD4B0C09.commit.test1v.0
+2019-11-20 01:46:46 [[34mdebug[39m]: forwarding signal 37F748DFE0E12AA2703DB5AC8FA314320627C7395648AA06FEB1D8990A3BDE34.commit.test1v.0
+2019-11-20 01:46:46 [[34mdebug[39m]: forwarding usage 37F748DFE0E12AA2703DB5AC8FA314320627C7395648AA06FEB1D8990A3BDE34.commit.test1v.0
+2019-11-20 01:46:46 [[32minfo[39m]: processing request: key: 5FCB37A347A4F4B85BC2C9B141D8D34A43CD417496695D95ADD4CA5FC9878289.commit.test2v.0 value: 1278
+2019-11-20 01:46:47 [[32minfo[39m]: processing request: key: BBA9DE51441282DE94E7042C41EB8ACB046D0F27039E54C82A7FAE58CF4E22FB.commit.test2v.0 value: 1278
+2019-11-20 01:46:48 [[32minfo[39m]: processing request: key: A96A87C1D59410B8C7A2AE6D402E00B10E9050456D895719A6FDCC7F58596F06.commit.test2v.0 value: 1278
+2019-11-20 01:46:48 [[32minfo[39m]: processing request: key: 284087CA46681F8E41BA6A9D5795DE08978FE0D7BD3A3B703D8728D86B36D897.commit.test2v.0 value: 1278
+2019-11-20 01:46:49 [[32minfo[39m]: processing request: key: 884434B3B0253113DE925CBC19C62DBE6DCEE062A9A04E88CF8536EAD94CFA5D.commit.test2v.0 value: 1278
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal F2DC8936BD904B8C90C873C4A1227DC8B0C4F79AA403CA9CEE0C3D09C2B2CA94.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage F2DC8936BD904B8C90C873C4A1227DC8B0C4F79AA403CA9CEE0C3D09C2B2CA94.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal 08F73AB2A4A8A56D6D2D52262287491D4792D2643B9D8D778F0E1B14F1A68D6F.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage 08F73AB2A4A8A56D6D2D52262287491D4792D2643B9D8D778F0E1B14F1A68D6F.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal 3D3C0D430A3FD7CF7D33F42C33753E730116470771BD1F2869CFD36BE44AF2A9.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage 3D3C0D430A3FD7CF7D33F42C33753E730116470771BD1F2869CFD36BE44AF2A9.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal 0F58F6E2B31C98CE3D1753F54F71E0F1E1771BD9217EB2B5E40924DCF4908274.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage 0F58F6E2B31C98CE3D1753F54F71E0F1E1771BD9217EB2B5E40924DCF4908274.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal 879FDBAC6694994471D52039AC67671549877B55DA6DF37FA2A515D76B4EB28B.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage 879FDBAC6694994471D52039AC67671549877B55DA6DF37FA2A515D76B4EB28B.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal 49652BAFCC4F333C86FE4774C7D15EE9BCE59FBABC3A4C4BE41007F2520DFD9E.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage 49652BAFCC4F333C86FE4774C7D15EE9BCE59FBABC3A4C4BE41007F2520DFD9E.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding signal D2DE042F7067A9808EE0F192EA997A60255FD1AAF0E3E4FA31C04C3304208A13.commit.test1v.0
+2019-11-20 01:46:50 [[34mdebug[39m]: forwarding usage D2DE042F7067A9808EE0F192EA997A60255FD1AAF0E3E4FA31C04C3304208A13.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal 108DB576D323328C3BF9C23A1D7AB3BC4EA54C3FA6158ABCB405F12C9CDA5103.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage 108DB576D323328C3BF9C23A1D7AB3BC4EA54C3FA6158ABCB405F12C9CDA5103.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal 213018CDF17812425291E06FA8E2EFD688C11326A63F97D2E5CE18DD754C37E0.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage 213018CDF17812425291E06FA8E2EFD688C11326A63F97D2E5CE18DD754C37E0.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal BDFFD574B0382B0C96FA259369774BB6A365EB58B56BFDA194C55E00EA2D7773.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage BDFFD574B0382B0C96FA259369774BB6A365EB58B56BFDA194C55E00EA2D7773.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal D351C09901BCA2509169757D5BAF7F5FFCE9A8A977E647EC5FD63B611D51E3B6.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage D351C09901BCA2509169757D5BAF7F5FFCE9A8A977E647EC5FD63B611D51E3B6.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal 30A76C1D08DD7B92992E83B97D4C0E9FCD59EB446376AA6800DC6B4137A2FCA9.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage 30A76C1D08DD7B92992E83B97D4C0E9FCD59EB446376AA6800DC6B4137A2FCA9.commit.test1v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal 5FCB37A347A4F4B85BC2C9B141D8D34A43CD417496695D95ADD4CA5FC9878289.commit.test2v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage 5FCB37A347A4F4B85BC2C9B141D8D34A43CD417496695D95ADD4CA5FC9878289.commit.test2v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding signal BBA9DE51441282DE94E7042C41EB8ACB046D0F27039E54C82A7FAE58CF4E22FB.commit.test2v.0
+2019-11-20 01:46:51 [[34mdebug[39m]: forwarding usage BBA9DE51441282DE94E7042C41EB8ACB046D0F27039E54C82A7FAE58CF4E22FB.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding signal A96A87C1D59410B8C7A2AE6D402E00B10E9050456D895719A6FDCC7F58596F06.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding usage A96A87C1D59410B8C7A2AE6D402E00B10E9050456D895719A6FDCC7F58596F06.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding signal 284087CA46681F8E41BA6A9D5795DE08978FE0D7BD3A3B703D8728D86B36D897.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding usage 284087CA46681F8E41BA6A9D5795DE08978FE0D7BD3A3B703D8728D86B36D897.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding signal 884434B3B0253113DE925CBC19C62DBE6DCEE062A9A04E88CF8536EAD94CFA5D.commit.test2v.0
+2019-11-20 01:46:52 [[34mdebug[39m]: forwarding usage 884434B3B0253113DE925CBC19C62DBE6DCEE062A9A04E88CF8536EAD94CFA5D.commit.test2v.0
+2019-11-20 01:59:36 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-20 04:44:23 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-20 16:29:49 [[32minfo[39m]: starting db: env - development, dialect - sqlite
+2019-11-20 18:54:10 [[32minfo[39m]: starting db: env - development, dialect - sqlite

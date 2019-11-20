@@ -1,0 +1,23 @@
+2019-11-20 01:19:49 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 01:19:51 [[32minfo[39m]: LOG SVC NODE 2019-11-20T01:19:51.733Z index.js:global:0 Started Service
+2019-11-20 01:37:16 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 01:37:18 [[32minfo[39m]: LOG SVC NODE 2019-11-20T01:37:18.624Z index.js:global:0 Started Service
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:34 [[32minfo[39m]: test2 2019-11-20T01:43:24.500Z logconsumer.cpp:test:15 Testing log events. Got Number:123
+2019-11-20 01:43:35 [[34mdebug[39m]: REQUEST
+{"receiver":"test2","method":"test","account":"test2","data":{"num":123},"event":{"version":"1.0","etype":"service_request","payer":"test2","service":"logservices1","action":"logevent","provider":"","data":"IKh1Tr2XBQAESU5GTw9sb2djb25zdW1lci5jcHACMTUEdGVzdCJUZXN0aW5nIGxvZyBldmVudHMuIEdvdCBOdW1iZXI6MTIzAA==","meta":{"txId":"59AF6984C8ECB5FEAD7AB25A6D2F2C2DEA2CF145DE45CA301B5FFE4C14B4F1BD","blockNum":886,"timestamp":1574214204500,"blockId":"000003766F7569CA89EA6AAC4650AB13072B3CF78257A5EEF84CCA6275CBB44D","sidechain":null,"eventNum":0},"current_provider":"pprovider1","packageid":"default"},"replay":false}
+RESPONSE: [5d74b4702efa5b2c2ed028e07e4a0265fbcb1a6cd29355bb83a07d5b23db5d4a]
+{"action":"xlogevent","payload":{"size":34,"reciept":"1574214214525","current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test2","service":"logservices1","action":"logevent","provider":"","data":"IKh1Tr2XBQAESU5GTw9sb2djb25zdW1lci5jcHACMTUEdGVzdCJUZXN0aW5nIGxvZyBldmVudHMuIEdvdCBOdW1iZXI6MTIzAA==","meta":{"txId":"59AF6984C8ECB5FEAD7AB25A6D2F2C2DEA2CF145DE45CA301B5FFE4C14B4F1BD","blockNum":886,"timestamp":1574214204500,"blockId":"000003766F7569CA89EA6AAC4650AB13072B3CF78257A5EEF84CCA6275CBB44D","sidechain":null,"eventNum":0},"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 02:00:26 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 02:00:29 [[32minfo[39m]: LOG SVC NODE 2019-11-20T02:00:29.060Z index.js:global:0 Started Service
+2019-11-20 04:45:03 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 04:45:06 [[32minfo[39m]: LOG SVC NODE 2019-11-20T04:45:06.416Z index.js:global:0 Started Service
+2019-11-20 16:30:42 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 16:30:44 [[32minfo[39m]: LOG SVC NODE 2019-11-20T16:30:44.511Z index.js:global:0 Started Service
+2019-11-20 18:54:54 [[32minfo[39m]: nodeFactory starting log
+2019-11-20 18:54:57 [[32minfo[39m]: LOG SVC NODE 2019-11-20T18:54:57.160Z index.js:global:0 Started Service

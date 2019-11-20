@@ -1,0 +1,138 @@
+2019-11-20 01:19:57 [[32minfo[39m]: nodeFactory starting oracle
+2019-11-20 01:37:23 [[32minfo[39m]: nodeFactory starting oracle
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:29 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:30 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"hQFIUzQ9Oi8vLTM2ODc5MTcxNzovL2h0dHBzK3Bvc3QranNvbjovL3RpbWVzdGFtcC9leUppYkc5amExOXVkVzFmYjNKZmFXUWlPaUl6TmpVMk9EQXdNQ0o5L25vZGVzLmdldC1zY2F0dGVyLmNvbTo0NDMvdjEvY2hhaW4vZ2V0X2Jsb2NrAQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [5d388341669c34ea24bbd7e05c79e5f6655d2f853570c504730e8906317ae034]
+{"action":"xgeturi","payload":{"uri":"4853343D3A2F2F2D3336383739313731373A2F2F68747470732B706F73742B6A736F6E3A2F2F74696D657374616D702F65794A696247396A613139756457316662334A66615751694F69497A4E6A55324F4441774D434A392F6E6F6465732E6765742D736361747465722E636F6D3A3434332F76312F636861696E2F6765745F626C6F636B","data":{"type":"Buffer","data":[50,48,49,57,45,48,49,45,48,57,84,49,56,58,50,48,58,50,51,46,48,48,48]},"size":23,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"hQFIUzQ9Oi8vLTM2ODc5MTcxNzovL2h0dHBzK3Bvc3QranNvbjovL3RpbWVzdGFtcC9leUppYkc5amExOXVkVzFmYjNKZmFXUWlPaUl6TmpVMk9EQXdNQ0o5L25vZGVzLmdldC1zY2F0dGVyLmNvbTo0NDMvdjEvY2hhaW4vZ2V0X2Jsb2NrAQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:31 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"S1dVcz06Ly80NTE1MzU5MDM6Ly9zZWxmX2hpc3Rvcnk6Ly90ZXN0MS8wLzAvMC9hY3Rpb25fdHJhY2UuYWN0LmRhdGEuYWNjb3VudAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [a6bef9c2c4a57bfe3cced1ddda50ca92f3551f2a0cbe8a5c5261dff11eba0eae]
+{"action":"xgeturi","payload":{"uri":"5755733D3A2F2F3435313533353930333A2F2F73656C665F686973746F72793A2F2F74657374312F302F302F302F616374696F6E5F74726163652E6163742E646174612E6163636F756E74","data":{"type":"Buffer","data":[116,101,115,116,49]},"size":5,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"S1dVcz06Ly80NTE1MzU5MDM6Ly9zZWxmX2hpc3Rvcnk6Ly90ZXN0MS8wLzAvMC9hY3Rpb25fdHJhY2UuYWN0LmRhdGEuYWNjb3VudAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:31 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:32 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:32 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:33 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"SzFmQT06Ly8xODg2MDIzMTU5Oi8vc2lzdGVyX2NoYWluX2Jsb2NrOi8vbWFpbm5ldC8yMDAwMDAwMC90cmFuc2FjdGlvbl9tcm9vdAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [e613b1b041f20237bfc14bc6b69c07d02339eebcda8c3fdd5a42f8a4267566ab]
+{"action":"xgeturi","payload":{"uri":"3166413D3A2F2F313838363032333135393A2F2F7369737465725F636861696E5F626C6F636B3A2F2F6D61696E6E65742F32303030303030302F7472616E73616374696F6E5F6D726F6F74","data":{"type":"Buffer","data":[50,102,57,57,55,98,97,99,54,99,99,99,101,50,48,97,57,53,100,57,57,50,55,97,101,52,49,54,99,99,102,99,56,101,49,56,51,102,56,50,100,55,97,97,53,54,101,102,52,49,51,52,54,49,48,52,51,57,101,97,52,49,54,52]},"size":64,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"SzFmQT06Ly8xODg2MDIzMTU5Oi8vc2lzdGVyX2NoYWluX2Jsb2NrOi8vbWFpbm5ldC8yMDAwMDAwMC90cmFuc2FjdGlvbl9tcm9vdAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:33 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:34 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"UjgxVT06Ly8xNjU5NDQyMzExOi8vZm9yZWlnbl9jaGFpbjovL2V0aGVyZXVtL2hpc3RvcnkvMHgxMDAvcmVzdWx0LnRyYW5zYWN0aW9uc1Jvb3QB","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [58bc074ae0ff9e7dfdd37e54f18fdd793893ecbd0f8102c14327272a7c1fb7e1]
+{"action":"xgeturi","payload":{"uri":"3831553D3A2F2F313635393434323331313A2F2F666F726569676E5F636861696E3A2F2F657468657265756D2F686973746F72792F30783130302F726573756C742E7472616E73616374696F6E73526F6F74","data":{"type":"Buffer","data":[48,120,53,54,101,56,49,102,49,55,49,98,99,99,53,53,97,54,102,102,56,51,52,53,101,54,57,50,99,48,102,56,54,101,53,98,52,56,101,48,49,98,57,57,54,99,97,100,99,48,48,49,54,50,50,102,98,53,101,51,54,51,98,52,50,49]},"size":66,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"UjgxVT06Ly8xNjU5NDQyMzExOi8vZm9yZWlnbl9jaGFpbjovL2V0aGVyZXVtL2hpc3RvcnkvMHgxMDAvcmVzdWx0LnRyYW5zYWN0aW9uc1Jvb3QB","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:34 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:35 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:35 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"kgFUdGc9Oi8vLTEwMzc2ODQ1NTI6Ly9mb3JlaWduX2NoYWluOi8vY2FyZGFuby9oaXN0b3J5LzY0ZDA1NjI2MTliMzk5OTkyMDg3NmE5OWYzZjgwMzg1ZTFhZWQ1Yzc4ZDNhNDZkMmFmZmNkMTdkYjAxZGQzNjEvUmlnaHQuMC5jdGJPdXRwdXRTdW0uZ2V0Q29pbgE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [be564f8ed0bd88aa90cfdb874f8812249e7e1f16d7d25eca2c5ea47e059ad6c3]
+{"action":"xgeturi","payload":{"uri":"5474673D3A2F2F2D313033373638343535323A2F2F666F726569676E5F636861696E3A2F2F63617264616E6F2F686973746F72792F363464303536323631396233393939393230383736613939663366383033383565316165643563373864336134366432616666636431376462303164643336312F52696768742E302E6374624F757470757453756D2E676574436F696E","data":{"type":"Buffer","data":[53,57,54,56,50,49,51,48,55,48]},"size":10,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"kgFUdGc9Oi8vLTEwMzc2ODQ1NTI6Ly9mb3JlaWduX2NoYWluOi8vY2FyZGFuby9oaXN0b3J5LzY0ZDA1NjI2MTliMzk5OTkyMDg3NmE5OWYzZjgwMzg1ZTFhZWQ1Yzc4ZDNhNDZkMmFmZmNkMTdkYjAxZGQzNjEvUmlnaHQuMC5jdGJPdXRwdXRTdW0uZ2V0Q29pbgE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:36 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:37 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"YGJsMD06Ly8tNjcxNDczNDgxOi8vZm9yZWlnbl9jaGFpbjovL3JpcHBsZS9iYWxhbmNlL3JHd1VXZ041QkVnM1FHTlkzUlgySGZZb3dqVVRaZGlkM0UvMC5jdXJyZW5jeQE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [72ba79ec48f380b3bb8d14791d5b4dc68a50896a9a8301da14f98dc3118cbff0]
+{"action":"xgeturi","payload":{"uri":"626C303D3A2F2F2D3637313437333438313A2F2F666F726569676E5F636861696E3A2F2F726970706C652F62616C616E63652F7247775557674E354245673351474E59335258324866596F776A55545A64696433452F302E63757272656E6379","data":{"type":"Buffer","data":[88,82,80]},"size":3,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"YGJsMD06Ly8tNjcxNDczNDgxOi8vZm9yZWlnbl9jaGFpbjovL3JpcHBsZS9iYWxhbmNlL3JHd1VXZ041QkVnM1FHTlkzUlgySGZZb3dqVVRaZGlkM0UvMC5jdXJyZW5jeQE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:37 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:38 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"O2E1az06Ly8yMDg3MDM4MDQzOi8vZm9yZWlnbl9jaGFpbjovL2JpdGNvaW4vYmxvY2svMTAwL2R1bW15AQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [d93902207f81e9d0c848528fd829a2d3b21221f469451e89b803738cf7e802af]
+{"action":"xgeturi","payload":{"uri":"61356B3D3A2F2F323038373033383034333A2F2F666F726569676E5F636861696E3A2F2F626974636F696E2F626C6F636B2F3130302F64756D6D79","data":{"type":"Buffer","data":[116,101,115,116,45,100,117,109,109,121]},"size":10,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"O2E1az06Ly8yMDg3MDM4MDQzOi8vZm9yZWlnbl9jaGFpbjovL2JpdGNvaW4vYmxvY2svMTAwL2R1bW15AQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:38 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"PFF0RT06Ly8tNDk3ODY1Njk5Oi8vZm9yZWlnbl9jaGFpbjovL2xpdGVjb2luL2Jsb2NrLzEwMC9kdW1teQE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [da2369d3f050a844c13b525532787de36dbe0808931db218e9c6adf3f2e993a3]
+{"action":"xgeturi","payload":{"uri":"5174453D3A2F2F2D3439373836353639393A2F2F666F726569676E5F636861696E3A2F2F6C697465636F696E2F626C6F636B2F3130302F64756D6D79","data":{"type":"Buffer","data":[116,101,115,116,45,100,117,109,109,121]},"size":10,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"PFF0RT06Ly8tNDk3ODY1Njk5Oi8vZm9yZWlnbl9jaGFpbjovL2xpdGVjb2luL2Jsb2NrLzEwMC9kdW1teQE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:38 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:39 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:39 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"QHdsWT06Ly8tNTQ2NDgzMTc4Oi8vZm9yZWlnbl9jaGFpbjovL2JpdGNvaW5fY2FzaC9ibG9jay8xMDAvZHVtbXkB","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [f53c3c3217ae55328898f1073dac95acd0e5bb1a8b5f7c831b778960d99b9c11]
+{"action":"xgeturi","payload":{"uri":"776C593D3A2F2F2D3534363438333137383A2F2F666F726569676E5F636861696E3A2F2F626974636F696E5F636173682F626C6F636B2F3130302F64756D6D79","data":{"type":"Buffer","data":[116,101,115,116,45,100,117,109,109,121]},"size":10,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"QHdsWT06Ly8tNTQ2NDgzMTc4Oi8vZm9yZWlnbl9jaGFpbjovL2JpdGNvaW5fY2FzaC9ibG9jay8xMDAvZHVtbXkB","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"X1EwST06Ly8tMTE2OTU3MjA5MjovL3dvbGZyYW1fYWxwaGE6Ly9XaGF0IGlzIHRoZSBhdmVyYWdlIGFpciBzcGVlZCB2ZWxvY2l0eSBvZiBhIGxhZGVuIHN3YWxsb3c/AQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [da7c52d5d28d0457a41b1998cd12acf4968cfcdd33523feb847be447e85738bd]
+{"action":"xgeturi","payload":{"uri":"5130493D3A2F2F2D313136393537323039323A2F2F776F6C6672616D5F616C7068613A2F2F57686174206973207468652061766572616765206169722073706565642076656C6F63697479206F662061206C6164656E207377616C6C6F773F","data":{"type":"Buffer","data":[87,104,97,116,32,100,111,32,121,111,117,32,109,101,97,110,44,32,97,110,32,65,102,114,105,99,97,110,32,111,114,32,69,117,114,111,112,101,97,110,32,83,119,97,108,108,111,119,63]},"size":49,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"X1EwST06Ly8tMTE2OTU3MjA5MjovL3dvbGZyYW1fYWxwaGE6Ly9XaGF0IGlzIHRoZSBhdmVyYWdlIGFpciBzcGVlZCB2ZWxvY2l0eSBvZiBhIGxhZGVuIHN3YWxsb3c/AQ==","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /v1/chain/push_transaction	[::ffff:127.0.0.1]
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:40 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:41 [[34mdebug[39m]: REQUEST
+{"event":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"JCtERT06Ly8xMjI1MjUzMTM6Ly9yYW5kb206Ly8xMDI0LzEwMAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"},"exception":true}
+RESPONSE: [3f7cff2d2c71a8c17b66b2c33184b116095a5ecec96bdf500784f874f9a0c601]
+{"action":"xgeturi","payload":{"uri":"2B44453D3A2F2F3132323532353331333A2F2F72616E646F6D3A2F2F313032342F313030","data":{"type":"Buffer","data":[52,56,57]},"size":3,"current_provider":"pprovider1","package":"default"},"request":{"version":"1.0","etype":"service_request","payer":"test1","service":"oracleservic","action":"geturi","provider":"","data":"JCtERT06Ly8xMjI1MjUzMTM6Ly9yYW5kb206Ly8xMDI0LzEwMAE=","broadcasted":true,"current_provider":"pprovider1","packageid":"default"}}
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1] - undefined
+2019-11-20 01:43:41 [[32minfo[39m]: GATEWAY: /event	[::ffff:127.0.0.1]
+2019-11-20 02:00:34 [[32minfo[39m]: nodeFactory starting oracle
+2019-11-20 04:45:10 [[32minfo[39m]: nodeFactory starting oracle
+2019-11-20 16:30:50 [[32minfo[39m]: nodeFactory starting oracle
+2019-11-20 18:55:02 [[32minfo[39m]: nodeFactory starting oracle
