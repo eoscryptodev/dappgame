@@ -5,7 +5,7 @@
  /___|  \___|  \__,_| |___/  IDE
 
 ```
-This boilerplate uses Phaser 3 + TypeScript + Angular 8 + several working services from The Dapp Network + a whole host of other goodies!
+This boilerplate uses Phaser 3 + TypeScript + Angular 8 + several working services from The Dapp Network + a whole host of other goodies to get your EOSIO game development up and running faster than ever.
 
 Start the Zeus IDE with [Gitpod](https://gitpod.io/#https://github.com/eoscryptodev/dappgame)
 
